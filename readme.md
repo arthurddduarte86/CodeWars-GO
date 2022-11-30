@@ -9,7 +9,7 @@ Welcome, here you find code challenges for Go language from CodeWars.com
 
 # Kata
 ## Rank:8 kyu  Rank:7 kyu  Rank:6 kyu
-**Total**: +119
+**Total**: +10
 
 
 * `Even or Odd` || [`Even_or_Odd.go`  ](/Code-Go/Even_or_Odd.go) Site [CodeWars, Go  ](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/go)
