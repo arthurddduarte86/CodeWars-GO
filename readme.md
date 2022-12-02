@@ -20,6 +20,12 @@ Welcome, here you find code challenges for Go language from CodeWars.com
 
 * `Volume of a Cuboid` || [`Volume_of_a_Cuboid.go`  ](/Code-Go/Volume_of_a_Cuboid.go) Site [CodeWars, Go  ](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/go)
 
+* `String repeat` || [`String_repeat.go`  ](/Code-Go/String_repeat.go) Site [CodeWars, Go  ](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/go)
+
+* `Grasshopper - Check for factor` || [`Grasshopper_Check_for_factor.go`  ](/Code-Go/Grasshopper_Check_for_factor.go) Site [CodeWars, Go  ](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/go)
+
+* `Remove First and Last Character` || [`Remove_First_and_Last_Character.go`  ](/Code-Go/Remove_First_and_Last_Character.go) Site [CodeWars, Go  ](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/go)
+
 
 
 
