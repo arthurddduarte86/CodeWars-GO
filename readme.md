@@ -26,6 +26,7 @@ Welcome, here you find code challenges for Go language from CodeWars.com
 
 * `Remove First and Last Character` || [`Remove_First_and_Last_Character.go`  ](/Code-Go/Remove_First_and_Last_Character.go) Site [CodeWars, Go  ](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/go)
 
+* `Abbreviate a Two Word Name` || [`Abbreviate_a_Two_Word_Name.go`  ](/Code-Go/Abbreviate_a_Two_Word_Name.go) Site [CodeWars, Go  ](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/go)
 
 
 
