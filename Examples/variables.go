@@ -6,7 +6,7 @@ var ab int
 var integerNum = 2
 var P, Q, R int = 2, 3, 4
 
-//  var c := 3;  :=  Can only be used inside functions
+//  var c := 3; // :=  Can only be used inside functions
 
 func main() {
 	var student1 string = "Arthur Duarte" //type is string
